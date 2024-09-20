@@ -2,7 +2,7 @@
 
 const HeroSection = () => {
   return (
-    <section className=' lg:mx-auto w-screen px-2 bg-[#faf6ef] md:bg-white flex-col md:flex-row lg:w-[65%] pt-5 md:mt-10 items-center h-full gap-5  justify-between flex '>
+    <section className=' lg:mx-auto w-screen px-2 bg-[#faf6ef] md:bg-white flex-col md:flex-row lg:w-[65%] pt-5 md:my-10 items-center h-full gap-5  justify-between flex '>
      <div className="md:hidden flex justify-center">
         <img src="https://a.storyblok.com/f/165154/1280x720/5ed0187b38/02_hp_top-banner_1280x720-white-version-1.jpg/m/800x0/" alt="" className="w-[90%]"/>
      </div>
